@@ -2,7 +2,7 @@ package com.basic;
 
 public class Arrays {
 	
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		
 		int[] x ;
 		int x1[];
